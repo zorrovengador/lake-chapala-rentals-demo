@@ -1,2 +1,3 @@
-# lake-chapala-rentals-demo
-Demostración visual: cuatro conceptos Lake Chapala Rentals. Sin IA ni inventario real.
+# Lake Chapala Rentals · Demo
+
+Visual dummy with four design concepts, image carousels and simulated chat. No live AI, MLS or real inventory.
